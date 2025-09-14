@@ -55,7 +55,8 @@ More projects on my repos and more coming soon!
 - Interactive dashboards with Plotly and Streamlit  
 
 ##  Let's Connect 
--  [Kaggle](https://www.kaggle.com/gifttandasi) 
+-  [Kaggle](https://www.kaggle.com/gifttandasi)
+-  [LinkedIn](https://www.linkedin.com/in/gift-munuve-223a65377/)
 -  Reach out for collaboration, feedback, or to geek out over data!
 
 ---
