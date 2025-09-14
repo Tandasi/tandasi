@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gift Tandasi
+#  Hi, I'm Gift Tandasi
 
 ##  About Me
 I'm a curious and driven tech enthusiast with a passion for uncovering insights from data and building scalable cloud solutions. Whether it's wrangling messy datasets, visualizing trends, or deploying infrastructure, I love turning complexity into clarity.
@@ -6,7 +6,7 @@ I'm a curious and driven tech enthusiast with a passion for uncovering insights 
 ##  Founder of Angatech
 At **Angatech**, we’re building tools and solutions that help organizations harness the power of data and cloud computing. Our mission is to simplify complexity and deliver results that matter.
 
- [Visit Angatech]https://anga-tech.com  
+ Visit Angatech - https://anga-tech.com  
  Projects include data analysis platforms, cloud-native apps, and custom dashboards for clients across industries.
 
 ##  What I Do
@@ -18,14 +18,34 @@ At **Angatech**, we’re building tools and solutions that help organizations ha
 -  Continuous Learning: always leveling up with new tools and techniques
 
 
-## Tools & Technologies
-- Python, Pandas, Jupyter Notebook  
-- HTML, SQL, Git  
-- AWS, Docker, GitHub Actions  
-- Matplotlib, Seaborn, Streamlit
--  
+##  Tools & Technologies
 
-## 📚 Projects
+###  Programming & Scripting
+- Python, Bash, SQL, HTML, JavaScript
+
+###  Data Analysis & Visualization
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Excel
+
+###  Machine Learning & Modeling
+- Scikit-learn, XGBoost, TensorFlow (basic), MLflow
+
+###  Data Engineering
+- Apache Airflow, dbt, BigQuery, PostgreSQL, Snowflake
+
+###  Cloud & DevOps
+- AWS (EC2, S3, Lambda, RDS), Docker, GitHub Actions, Terraform, Linux
+
+###  Version Control & Collaboration
+- Git, GitHub, GitLab, Jupyter Notebook, VS Code
+
+###  BI & Dashboarding
+- Tableau, Power BI, Google Data Studio
+
+###  Experimentation & Deployment
+- Flask, FastAPI, Streamlit, Heroku
+
+
+##  Projects
 [India Spending Dataset](https://github.com/Tandasi/India-spending-dataset) for a deep dive into public expenditure trends using Python and Jupyter.
 More projects on my repos and more coming soon!
 
@@ -34,11 +54,10 @@ More projects on my repos and more coming soon!
 - Cloud-native architecture on AWS  
 - Interactive dashboards with Plotly and Streamlit  
 
-##  Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your actual link)*  
--  [Kaggle](https://www.kaggle.com/gifttandasi) *(if you have one)*  
--  Reach out for collaboration, feedback, or just to geek out over data!
+##  Let's Connect 
+-  [Kaggle](https://www.kaggle.com/gifttandasi) 
+-  Reach out for collaboration, feedback, or to geek out over data!
 
 ---
 
-Thanks for stopping by. Let’s build something meaningful together 🚀
+Thanks for stopping by. Let’s build something meaningful together 
